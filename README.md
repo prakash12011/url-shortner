@@ -1,4 +1,9 @@
-﻿**Frontend Pages**
+﻿**Commands to run:**
+
+ - yarn dev – To run dev environment 
+
+
+**Frontend Pages**
 
 Index page functionality: 
 
